@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="The self.docx"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-docx"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="The self.docx.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">23</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10 (Early Experience)"
+        tool-name="Lingo"
+        tool-version="10.0.5955.22479"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="word"
+        phase-name="pretrans"><source>The self-fulfilling prophecy or Pygmalion effect simply states that a person will expect a certain event to come true which in turns changes the way that person views things, then watches as that expected event unfolds.  While we tend to look at SFP’s as generally negative, it actually has strong footing on both sides of the fence. Visualization (Playing out a future scenario in one’s mind that ends in a positive result) is used in sports and other competitions, as well as in medicine.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The self-fulfilling prophecy or Pygmalion effect simply states that a person will expect a certain event to come true which in turns changes the way that person views things, then watches as that expected event unfolds.</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk><mrk
+            mtype="seg"
+            mid="3">While we tend to look at SFP’s as generally negative, it actually has strong footing on both sides of the fence.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">Visualization (Playing out a future scenario in one’s mind that ends in a positive result) is used in sports and other competitions, as well as in medicine.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="word"
+        phase-name="pretrans"><source>To me, this has always seemed like the best approach to get the most out of your employees. Yet, I have seen fail when the managers expectations of the employees are met, but the promises for achieving that goal were never kept. What should have turned into a positive actually became a large negative and the employee never again achieved his goals because he felt the company would not live up to its end of the bargain. His self-fulfilling prophecy became that it did not matter how well or poorly he performed, the end result would always be the same.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To me, this has always seemed like the best approach to get the most out of your employees.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Yet, I have seen fail when the managers expectations of the employees are met, but the promises for achieving that goal were never kept.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">What should have turned into a positive actually became a large negative and the employee never again achieved his goals because he felt the company would not live up to its end of the bargain.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">His self-fulfilling prophecy became that it did not matter how well or poorly he performed, the end result would always be the same.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="word"
+        phase-name="pretrans"><source>I started a new position back in January and the very first day that I had an opportunity to speak with the lead, he told me “We are in crunch mode right now and no offense, we don’t expect to get much out of you until this is over. Whatever we do get, it will just be gravy for us.” So, the bar was set very low and I could have easily used it to just limp along and take it easy. But I was eager to impress so I set a goal to become a useful part of the team by week three and told my lead as such. I got myself to where I believed I needed to be and it turned out that my lead felt the same way. I was now required to work weekends with the rest of the team, which in turn, gave me a week off when our product was released. I set my goal, announced it to my lead, then fulfilled it.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">I started a new position back in January and the very first day that I had an opportunity to speak with the lead, he told me “We are in crunch mode right now and no offense, we don’t expect to get much out of you until this is over.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Whatever we do get, it will just be gravy for us.” So, the bar was set very low and I could have easily used it to just limp along and take it easy.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">But I was eager to impress so I set a goal to become a useful part of the team by week three and told my lead as such.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">I got myself to where I believed I needed to be and it turned out that my lead felt the same way.</mrk><mrk
+            mtype="protected"
+            mid="8"> </mrk><mrk
+            mtype="seg"
+            mid="9">I was now required to work weekends with the rest of the team, which in turn, gave me a week off when our product was released.</mrk><mrk
+            mtype="protected"
+            mid="10"> </mrk><mrk
+            mtype="seg"
+            mid="11">I set my goal, announced it to my lead, then fulfilled it.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="10"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="11"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
